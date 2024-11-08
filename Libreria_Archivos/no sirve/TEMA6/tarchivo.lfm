@@ -1,0 +1,100 @@
+object Form1: TForm1
+  Left = 246
+  Height = 365
+  Top = 203
+  Width = 686
+  Caption = 'Form1'
+  ClientHeight = 345
+  ClientWidth = 686
+  Menu = MainMenu1
+  LCLVersion = '2.2.6.0'
+  object Memo1: TMemo
+    Left = 0
+    Height = 177
+    Top = 0
+    Width = 384
+    Lines.Strings = (
+      ''
+    )
+    ScrollBars = ssAutoBoth
+    TabOrder = 0
+  end
+  object Memo2: TMemo
+    Left = 0
+    Height = 168
+    Top = 176
+    Width = 384
+    TabOrder = 1
+  end
+  object Memo3: TMemo
+    Left = 384
+    Height = 344
+    Top = 0
+    Width = 304
+    Lines.Strings = (
+      ''
+    )
+    TabOrder = 2
+  end
+  object MainMenu1: TMainMenu
+    Left = 560
+    Top = 8
+    object Archivos: TMenuItem
+      Caption = 'Archivos'
+      object Abrir: TMenuItem
+        Caption = 'Abrir'
+        OnClick = AbrirClick
+      end
+      object Guardar_como: TMenuItem
+        Caption = 'Guardar_como'
+        OnClick = Guardar_comoClick
+      end
+      object Salir: TMenuItem
+        Caption = 'Salir'
+        OnClick = SalirClick
+      end
+    end
+    object Editar: TMenuItem
+      Caption = 'Editar'
+      object cantidad_Palabras: TMenuItem
+        Caption = 'cantidad_Palabras'
+        OnClick = cantidad_PalabrasClick
+      end
+      object Cantidad_Parrafos: TMenuItem
+        Caption = 'Cantidad_Parrafos'
+        OnClick = Cantidad_ParrafosClick
+      end
+      object Buscar_Palabra: TMenuItem
+        Caption = 'Buscar_Palabra'
+        OnClick = Buscar_PalabraClick
+      end
+      object Remplazar_Palabra: TMenuItem
+        Caption = 'Remplazar_Palabra'
+        OnClick = Remplazar_PalabraClick
+      end
+      object Mezclar_dos_archivos: TMenuItem
+        Caption = 'Mezclar_dos_archivos'
+        OnClick = Mezclar_dos_archivosClick
+      end
+    end
+    object MenuItem1: TMenuItem
+      Caption = 'Parcial'
+      object MenuItem2: TMenuItem
+        Caption = 'PromedioY mayor sueldo'
+        OnClick = MenuItem2Click
+      end
+      object MenuItem3: TMenuItem
+        Caption = 'Frecuencia'
+        OnClick = MenuItem3Click
+      end
+    end
+  end
+  object OD: TOpenDialog
+    Left = 560
+    Top = 80
+  end
+  object SD: TSaveDialog
+    Left = 560
+    Top = 152
+  end
+end

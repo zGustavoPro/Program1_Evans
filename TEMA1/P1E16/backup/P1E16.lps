@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="P1E16.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="15"/>
+        <CursorPos X="19" Y="18"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tpracticou16.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="TPracticoU16"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="25"/>
+        <CursorPos X="2" Y="24"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="7">
+      <Position>
+        <Filename Value="tpracticou16.pas"/>
+        <Caret Line="15" Column="7" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou16.pas"/>
+        <Caret Line="43" Column="51" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou16.pas"/>
+        <Caret Line="42" Column="15" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou16.pas"/>
+        <Caret Line="41" Column="32" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou16.pas"/>
+        <Caret Line="42" Column="29" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou16.pas"/>
+        <Caret Line="43" Column="11" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="P1E16.lpr"/>
+        <Caret Line="26" Column="7" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou16.pas"/>
+        <Caret Line="24" Column="2" TopLine="22"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

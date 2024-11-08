@@ -1,0 +1,128 @@
+object Form1: TForm1
+  Left = 808
+  Height = 401
+  Top = 99
+  Width = 661
+  Caption = 'APLICACION2'
+  ClientHeight = 401
+  ClientWidth = 661
+  Color = clAqua
+  DesignTimePPI = 120
+  Menu = opciones
+  LCLVersion = '3.0.0.3'
+  object Label1: TLabel
+    Left = 260
+    Height = 32
+    Top = 10
+    Width = 117
+    Caption = 'VECTORES'
+    Color = clWhite
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -24
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+    Transparent = False
+  end
+  object SG: TStringGrid
+    Left = 140
+    Height = 50
+    Top = 50
+    Width = 375
+    ColCount = 9
+    DefaultColWidth = 40
+    FixedCols = 0
+    TabOrder = 0
+  end
+  object crear: TButton
+    Left = 330
+    Height = 31
+    Top = 100
+    Width = 104
+    Caption = 'crear'
+    TabOrder = 1
+    OnClick = crearClick
+  end
+  object cargar: TButton
+    Left = 476
+    Height = 31
+    Top = 270
+    Width = 94
+    Caption = 'cargar'
+    TabOrder = 2
+    OnClick = cargarClick
+  end
+  object T1: TEdit
+    Left = 470
+    Height = 28
+    Top = 150
+    Width = 100
+    TabOrder = 3
+    TextHint = 'T1'
+  end
+  object T2: TEdit
+    Left = 200
+    Height = 28
+    Top = 150
+    Width = 100
+    TabOrder = 4
+    TextHint = 'T2'
+  end
+  object setdim: TButton
+    Left = 470
+    Height = 31
+    Top = 190
+    Width = 94
+    Caption = 'setdim'
+    TabOrder = 5
+    OnClick = setdimClick
+  end
+  object getdim: TButton
+    Left = 470
+    Height = 31
+    Top = 230
+    Width = 94
+    Caption = 'getdim'
+    TabOrder = 6
+    OnClick = getdimClick
+  end
+  object random: TButton
+    Left = 340
+    Height = 31
+    Top = 190
+    Width = 94
+    Caption = 'random'
+    TabOrder = 7
+  end
+  object setvalor: TButton
+    Left = 200
+    Height = 31
+    Top = 190
+    Width = 94
+    Caption = 'setvalor'
+    TabOrder = 8
+    OnClick = setvalorClick
+  end
+  object getvalor: TButton
+    Left = 200
+    Height = 31
+    Top = 230
+    Width = 94
+    Caption = 'getvalor'
+    TabOrder = 9
+  end
+  object randon: TEdit
+    Left = 340
+    Height = 28
+    Top = 150
+    Width = 94
+    TabOrder = 10
+    TextHint = '0 hast N  '
+  end
+  object opciones: TMainMenu
+    Left = 30
+    Top = 90
+  end
+end

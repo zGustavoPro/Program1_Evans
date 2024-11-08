@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1420791944"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw2 -gl -l -vewnhibq &quot;-FiF:\Trabajos en clases\TEMA6\T6E3_app\lib\x86_64-win64&quot; &quot;-FuF:\Trabajos en clases\Tema7\T7E1&quot; &quot;-FuF:\Trabajos en clases\TEMA6\T6E3_app\&quot; &quot;-FUF:\Trabajos en clases\TEMA6\T6E3_app\lib\x86_64-win64\&quot; &quot;-FEF:\Trabajos en clases\TEMA6\T6E3_app\&quot; &quot;-oF:\Trabajos en clases\TEMA6\T6E3_app\E1.exe&quot; E1.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>

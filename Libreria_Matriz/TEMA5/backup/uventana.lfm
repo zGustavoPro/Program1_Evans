@@ -1,0 +1,334 @@
+object Form1: TForm1
+  Left = 226
+  Height = 374
+  Top = 179
+  Width = 1037
+  Caption = 'AppU5'
+  ClientHeight = 354
+  ClientWidth = 1037
+  Color = clAqua
+  Menu = Menu_Mat
+  LCLVersion = '2.2.6.0'
+  object Label1: TLabel
+    Left = 472
+    Height = 25
+    Top = 8
+    Width = 109
+    Caption = 'MATRIZES'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -21
+    Font.Name = 'Monotype Corsiva'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold, fsItalic]
+    ParentColor = False
+    ParentFont = False
+  end
+  object Resultado: TLabel
+    Left = 376
+    Height = 18
+    Top = 280
+    Width = 87
+    Caption = 'Resultado=>'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -16
+    Font.Name = 'Monotype Corsiva'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold, fsItalic]
+    ParentColor = False
+    ParentFont = False
+  end
+  object ele: TEdit
+    Left = 504
+    Height = 23
+    Top = 296
+    Width = 80
+    TabOrder = 0
+    TextHint = 'ele....'
+  end
+  object SG1: TStringGrid
+    Left = 240
+    Height = 136
+    Top = 104
+    Width = 200
+    ColCount = 6
+    DefaultColWidth = 32
+    FixedCols = 0
+    FixedRows = 0
+    TabOrder = 1
+  end
+  object Label2: TLabel
+    Left = 305
+    Height = 22
+    Top = 76
+    Width = 76
+    Caption = 'Matriz_1'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -19
+    Font.Name = 'Monotype Corsiva'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold, fsItalic]
+    ParentColor = False
+    ParentFont = False
+  end
+  object SG2: TStringGrid
+    Left = 512
+    Height = 136
+    Top = 104
+    Width = 200
+    ColCount = 6
+    DefaultColWidth = 32
+    FixedCols = 0
+    FixedRows = 0
+    TabOrder = 2
+  end
+  object Label3: TLabel
+    Left = 576
+    Height = 22
+    Top = 76
+    Width = 77
+    Caption = 'Matriz_2'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -19
+    Font.Name = 'Monotype Corsiva'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold, fsItalic]
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label4: TLabel
+    Left = 848
+    Height = 22
+    Top = 76
+    Width = 76
+    Caption = 'Matriz_3'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -19
+    Font.Name = 'Monotype Corsiva'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold, fsItalic]
+    ParentColor = False
+    ParentFont = False
+  end
+  object SG3: TStringGrid
+    Left = 784
+    Height = 136
+    Top = 104
+    Width = 200
+    ColCount = 6
+    DefaultColWidth = 32
+    FixedCols = 0
+    FixedRows = 0
+    TabOrder = 3
+  end
+  object p: TEdit
+    Left = 504
+    Height = 23
+    Top = 256
+    Width = 80
+    TabOrder = 4
+    TextHint = 'pos...'
+  end
+  object Label5: TLabel
+    Left = 736
+    Height = 47
+    Top = 144
+    Width = 25
+    Caption = '='
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -35
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object Menu_Mat: TMainMenu
+    Left = 64
+    Top = 8
+    object Ej_PractU5: TMenuItem
+      Caption = 'Ej_PractU5'
+      object MenuItem2: TMenuItem
+        Caption = 'Sum_Matrizes'
+        OnClick = MenuItem2Click
+      end
+      object Mul_Matrizes: TMenuItem
+        Caption = 'Mul_Matrizes'
+        OnClick = Mul_MatrizesClick
+      end
+      object Sum_Colm: TMenuItem
+        Caption = 'Sum_Colm'
+        OnClick = Sum_ColmClick
+      end
+      object sum_Fil: TMenuItem
+        Caption = 'sum_Fil'
+        OnClick = sum_FilClick
+      end
+      object Sum_Bloq: TMenuItem
+        Caption = 'Sum_bloq'
+        OnClick = Sum_BloqClick
+      end
+      object MenuItem6: TMenuItem
+        Caption = 'Prom_Fil_Col'
+        OnClick = MenuItem6Click
+      end
+      object Elem_rep: TMenuItem
+        Caption = 'Elem_rep'
+        OnClick = Elem_repClick
+      end
+      object Elem_Moda: TMenuItem
+        Caption = 'Elem_Moda'
+        OnClick = Elem_ModaClick
+      end
+      object TSI: TMenuItem
+        Caption = 'TSI'
+        OnClick = TSIClick
+      end
+      object TSD: TMenuItem
+        Caption = 'TSD'
+        OnClick = TSDClick
+      end
+      object TII: TMenuItem
+        Caption = 'TII'
+        OnClick = TIIClick
+      end
+      object TID: TMenuItem
+        Caption = 'TID'
+        OnClick = TIDClick
+      end
+      object DP: TMenuItem
+        Caption = 'DP'
+        OnClick = DPClick
+      end
+      object DS: TMenuItem
+        Caption = 'DS'
+        OnClick = DSClick
+      end
+    end
+    object MenuItem1: TMenuItem
+      Caption = 'Ej_AplicU5'
+      object Crear: TMenuItem
+        Caption = 'Crear'
+        OnClick = CrearClick
+      end
+      object Filas: TMenuItem
+        Caption = 'Filas'
+        OnClick = FilasClick
+      end
+      object Columnas: TMenuItem
+        Caption = 'Columnas'
+        OnClick = ColumnasClick
+      end
+      object SetElem: TMenuItem
+        Caption = 'SetElem'
+        OnClick = SetElemClick
+      end
+      object GetElem: TMenuItem
+        Caption = 'GetElem'
+        OnClick = GetElemClick
+      end
+      object Ord_Asc: TMenuItem
+        Caption = 'Ord_asc'
+        OnClick = Ord_AscClick
+      end
+      object Resta_Matriz: TMenuItem
+        Caption = 'Resta_Matriz'
+        OnClick = Resta_MatrizClick
+      end
+      object Inv_Matriz: TMenuItem
+        Caption = 'Inv_Matriz'
+        OnClick = Inv_MatrizClick
+      end
+      object Suma_M: TMenuItem
+        Caption = 'Suma_M'
+        OnClick = Suma_MClick
+      end
+      object Multi_M: TMenuItem
+        Caption = 'Multi_M'
+        OnClick = Multi_MClick
+      end
+      object Deter_3x3: TMenuItem
+        Caption = 'Deter_3x3'
+        OnClick = Deter_3x3Click
+      end
+      object Deter_2x2: TMenuItem
+        Caption = 'Deter_2x2'
+        OnClick = Deter_2x2Click
+      end
+      object M_Transpuesta: TMenuItem
+        Caption = 'M_Transpuesta'
+        OnClick = M_TranspuestaClick
+      end
+      object M_adjunta: TMenuItem
+        Caption = 'M_adjunta'
+        OnClick = M_adjuntaClick
+      end
+      object Diag_Prin: TMenuItem
+        Caption = 'Diag_Prin'
+        OnClick = Diag_PrinClick
+      end
+      object Diag_Sec: TMenuItem
+        Caption = 'Diag_Sec'
+        OnClick = Diag_SecClick
+      end
+      object Cal_inversa: TMenuItem
+        Caption = 'Cal_inversa'
+        OnClick = Cal_inversaClick
+      end
+    end
+    object MenuItem3: TMenuItem
+      Caption = 'Cargar_M_2'
+      object MenuItem4: TMenuItem
+        Caption = 'Fils_cols'
+        OnClick = MenuItem4Click
+      end
+      object SetElemM2: TMenuItem
+        Caption = 'SetElem_M2'
+        OnClick = SetElemM2Click
+      end
+      object GetElemM2: TMenuItem
+        Caption = 'GetElem_M2'
+        OnClick = GetElemM2Click
+      end
+      object cargar_RandomM2: TMenuItem
+        Caption = 'cargar_RandomM2'
+        OnClick = cargar_RandomM2Click
+      end
+    end
+    object Salir: TMenuItem
+      Caption = 'Salir'
+      OnClick = SalirClick
+    end
+    object Parcilal: TMenuItem
+      Caption = 'Parcilal'
+      object Random: TMenuItem
+        Caption = 'Random'
+        OnClick = RandomClick
+      end
+      object Transponer_TDP: TMenuItem
+        Caption = 'Transponer_TDP'
+        OnClick = Transponer_TDPClick
+      end
+      object Ord_TDP: TMenuItem
+        Caption = 'Ord_TDP'
+        OnClick = Ord_TDPClick
+      end
+      object Ord_TDS: TMenuItem
+        Caption = 'Ord_TDS'
+        OnClick = Ord_TDSClick
+      end
+      object Ord_FilxFil: TMenuItem
+        Caption = 'Ord_FilxFil'
+        OnClick = Ord_FilxFilClick
+      end
+      object Ord_1elem_Cfila: TMenuItem
+        Caption = 'Ord_1elem_Cfila'
+        OnClick = Ord_1elem_CfilaClick
+      end
+    end
+  end
+end

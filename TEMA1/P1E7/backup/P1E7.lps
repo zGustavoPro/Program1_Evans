@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="P1E7.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="6"/>
+        <CursorPos X="24" Y="16"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tpracticou7.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="TpracticoU7"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="28"/>
+        <CursorPos X="2" Y="31"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="6">
+      <Position>
+        <Filename Value="tpracticou7.pas"/>
+        <Caret Line="15" Column="39" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="P1E7.lpr"/>
+        <Caret Line="17" Column="10" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou7.pas"/>
+        <Caret Line="28" Column="17" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou7.pas"/>
+        <Caret Line="34" Column="18" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="P1E7.lpr"/>
+        <Caret Line="16" Column="28" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou7.pas"/>
+        <Caret Line="34" Column="13" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou7.pas"/>
+        <Caret Line="35" Column="15" TopLine="28"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,93 @@
+object Form1: TForm1
+  Left = 510
+  Height = 240
+  Top = 218
+  Width = 320
+  Caption = 'evento1'
+  ClientHeight = 240
+  ClientWidth = 320
+  Color = 8454016
+  LCLVersion = '2.2.6.0'
+  object titulo: TLabel
+    Left = 100
+    Height = 18
+    Top = 7
+    Width = 103
+    Caption = 'Operaciones'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -15
+    Font.Name = 'Swis721 Blk BT'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+  end
+  object v1: TEdit
+    Left = 112
+    Height = 23
+    Top = 32
+    Width = 80
+    TabOrder = 0
+    Text = 'v1'
+  end
+  object v2: TEdit
+    Left = 112
+    Height = 23
+    Top = 56
+    Width = 80
+    TabOrder = 1
+    Text = 'v2'
+  end
+  object result: TEdit
+    Left = 112
+    Height = 23
+    Top = 80
+    Width = 80
+    TabOrder = 2
+    Text = 'result'
+  end
+  object suma: TButton
+    Left = 24
+    Height = 25
+    Top = 128
+    Width = 75
+    Caption = 'suma'
+    OnClick = sumaClick
+    TabOrder = 3
+  end
+  object resta: TButton
+    Left = 24
+    Height = 25
+    Top = 176
+    Width = 75
+    Caption = 'resta'
+    OnClick = restaClick
+    TabOrder = 4
+  end
+  object multiplicacion: TButton
+    Left = 192
+    Height = 25
+    Top = 128
+    Width = 91
+    Caption = 'multiplicacion'
+    OnClick = multiplicacionClick
+    TabOrder = 5
+  end
+  object divisor: TButton
+    Left = 208
+    Height = 25
+    Top = 176
+    Width = 75
+    Caption = 'dividir'
+    OnClick = divisorClick
+    TabOrder = 6
+  end
+  object salir: TButton
+    Left = 120
+    Height = 25
+    Top = 208
+    Width = 75
+    Caption = 'salir'
+    TabOrder = 7
+  end
+end

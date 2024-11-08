@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="vec.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="23"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ventana.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="64"/>
+        <CursorPos X="3" Y="82"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uvector.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Uvector"/>
+        <EditorIndex Value="1"/>
+        <CursorPos Y="63"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="F:\T2E3\backup\uventan2.pas"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="103"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="F:\T2E3\backup\uventana.pas"/>
+        <UnitName Value="Uventana"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="5">
+      <Position>
+        <Filename Value="uvector.pas"/>
+        <Caret Line="147" Column="8" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="ventana.pas"/>
+        <Caret Line="81" Column="31" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="uvector.pas"/>
+        <Caret Line="69" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="ventana.pas"/>
+        <Caret Line="68" TopLine="57"/>
+      </Position>
+      <Position>
+        <Filename Value="ventana.pas"/>
+        <Caret Line="52" Column="6" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="ventana.pas"/>
+        <Caret Line="64" Column="16" TopLine="64"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

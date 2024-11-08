@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="E1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="2"/>
+        <CursorPos X="24" Y="16"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Tema7/T7E1/upersona.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Upersona"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="15"/>
+        <CursorPos X="19" Y="75"/>
+        <UsageCount Value="21"/>
+      </Unit>
+      <Unit>
+        <Filename Value="backup/upersona.pas"/>
+        <UnitName Value="Upersona"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="60"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="utexto.pas"/>
+        <UnitName Value="Utexto"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Tema7/T7E2/backup/uventana.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="10"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="upersona.pas"/>
+        <UnitName Value="Upersona"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="46"/>
+        <CursorPos X="6" Y="40"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="12">
+      <Position>
+        <Filename Value="E1.lpr"/>
+        <Caret Line="3" Column="33"/>
+      </Position>
+      <Position>
+        <Filename Value="E1.lpr"/>
+        <Caret Line="10" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="E1.lpr"/>
+        <Caret Line="18" Column="12"/>
+      </Position>
+      <Position>
+        <Filename Value="E1.lpr"/>
+        <Caret Line="17" Column="11" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="E1.lpr"/>
+        <Caret Line="9" Column="20"/>
+      </Position>
+      <Position>
+        <Filename Value="E1.lpr"/>
+        <Caret Line="7" Column="20"/>
+      </Position>
+      <Position>
+        <Filename Value="E1.lpr"/>
+        <Caret Line="17" Column="20" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="E1.lpr"/>
+        <Caret Line="9" Column="21" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="upersona.pas"/>
+        <Caret Line="39" Column="13" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="upersona.pas"/>
+        <Caret Line="69" Column="13" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="E1.lpr"/>
+        <Caret Line="19" Column="2" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="upersona.pas"/>
+        <Caret Line="63" Column="11" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="upersona.pas"/>
+        <Caret Line="52" Column="9" TopLine="52"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

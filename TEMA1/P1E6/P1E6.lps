@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="P1E6.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="4"/>
+        <CursorPos X="10" Y="17"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tpracticou6.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="TpracticoU6"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="23"/>
+        <CursorPos Y="34"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="3">
+      <Position>
+        <Filename Value="tpracticou6.pas"/>
+        <Caret Line="16" Column="7" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="P1E6.lpr"/>
+        <Caret Line="17" Column="10" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou6.pas"/>
+        <Caret Line="24" Column="5" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou6.pas"/>
+        <Caret Line="33" Column="8" TopLine="21"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

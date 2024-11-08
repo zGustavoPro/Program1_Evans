@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="p1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="27"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uventana.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Uventana"/>
+        <TopLine Value="216"/>
+        <CursorPos X="26" Y="279"/>
+        <UsageCount Value="27"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tregistro.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="TRegistro"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="30" Y="129"/>
+        <UsageCount Value="27"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\TEMA6\utexto.pas"/>
+        <UnitName Value="Utexto"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="111"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tarchivo.pas"/>
+        <UnitName Value="TArchivo"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="34"/>
+        <CursorPos X="28" Y="64"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tcadena.pas"/>
+        <UnitName Value="TCadena"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="31"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\TEMA6\t6\T6E3_app\backup\upersona.pas"/>
+        <UnitName Value="Upersona"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="81"/>
+        <CursorPos X="26" Y="65"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="templeados.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="TEmpleados"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="5"/>
+        <CursorPos X="27" Y="15"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Empleo\em1.lpr"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="10"/>
+        <CursorPos X="24" Y="19"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tconjunto.pas"/>
+        <UnitName Value="Tconjunto"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="19"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="tregistro.pas"/>
+        <Caret Line="37" Column="42" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="120" Column="20" TopLine="102"/>
+      </Position>
+      <Position>
+        <Filename Value="tregistro.pas"/>
+        <Caret Line="154" Column="29" TopLine="145"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="97" Column="9" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="98" Column="15" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="107" Column="17" TopLine="96"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="106" Column="17" TopLine="95"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="179" TopLine="164"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="44" Column="42" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="46" Column="43" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="182" Column="11" TopLine="170"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="181" Column="11" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="188" Column="11" TopLine="170"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="201" Column="39" TopLine="188"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="202" Column="14" TopLine="187"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="209" Column="14" TopLine="194"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="101" Column="39" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="103" Column="39" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="174" Column="22" TopLine="166"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="260" Column="4" TopLine="252"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="262" Column="4" TopLine="254"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="279" Column="26" TopLine="114"/>
+      </Position>
+      <Position>
+        <Filename Value="tregistro.pas"/>
+        <Caret Line="149" Column="28" TopLine="146"/>
+      </Position>
+      <Position>
+        <Filename Value="templeados.pas"/>
+        <Caret Line="43" Column="71" TopLine="33"/>
+      </Position>
+      <Position>
+        <Filename Value="tcadena.pas"/>
+        <Caret TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="templeados.pas"/>
+        <Caret Line="22" Column="28" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="templeados.pas"/>
+        <Caret Line="10" Column="11" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="tcadena.pas"/>
+        <Caret TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="templeados.pas"/>
+        <Caret Line="8" Column="28"/>
+      </Position>
+      <Position>
+        <Filename Value="templeados.pas"/>
+        <Caret Line="104" Column="7" TopLine="47"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

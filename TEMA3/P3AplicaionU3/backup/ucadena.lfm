@@ -1,0 +1,302 @@
+object Form1: TForm1
+  Left = 744
+  Height = 354
+  Top = 160
+  Width = 617
+  Caption = 'AplicacionU3'
+  ClientHeight = 354
+  ClientWidth = 617
+  Color = clAqua
+  LCLVersion = '2.2.6.0'
+  object pos: TEdit
+    Left = 352
+    Height = 23
+    Top = 104
+    Width = 80
+    TabOrder = 0
+    TextHint = 'pos....'
+  end
+  object ele: TEdit
+    Left = 480
+    Height = 23
+    Top = 104
+    Width = 80
+    TabOrder = 1
+    TextHint = 'ele....'
+  end
+  object SG: TStringGrid
+    Left = 32
+    Height = 40
+    Top = 40
+    Width = 536
+    ColCount = 4
+    DefaultColWidth = 28
+    FixedCols = 0
+    TabOrder = 2
+  end
+  object Label1: TLabel
+    Left = 254
+    Height = 30
+    Top = 7
+    Width = 98
+    Caption = 'CADENAS'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -21
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object crear: TButton
+    Left = 264
+    Height = 25
+    Top = 136
+    Width = 75
+    Caption = 'crear'
+    OnClick = crearClick
+    TabOrder = 3
+  end
+  object SetDim: TButton
+    Left = 352
+    Height = 25
+    Top = 136
+    Width = 75
+    Caption = 'SetDim'
+    OnClick = SetDimClick
+    TabOrder = 4
+  end
+  object GetDim: TButton
+    Left = 352
+    Height = 25
+    Top = 168
+    Width = 75
+    Caption = 'GetDim'
+    OnClick = GetDimClick
+    TabOrder = 5
+  end
+  object SetChar: TButton
+    Left = 352
+    Height = 25
+    Top = 200
+    Width = 75
+    Caption = 'SetChar'
+    OnClick = SetCharClick
+    TabOrder = 6
+  end
+  object GetChar: TButton
+    Left = 352
+    Height = 25
+    Top = 232
+    Width = 75
+    Caption = 'GetChar'
+    OnClick = GetCharClick
+    TabOrder = 7
+  end
+  object AddChar: TButton
+    Left = 480
+    Height = 25
+    Top = 136
+    Width = 75
+    Caption = 'AddChar'
+    OnClick = AddCharClick
+    TabOrder = 8
+  end
+  object InsChar: TButton
+    Left = 480
+    Height = 25
+    Top = 168
+    Width = 75
+    Caption = 'InsChar'
+    OnClick = InsCharClick
+    TabOrder = 9
+  end
+  object ElimChar: TButton
+    Left = 480
+    Height = 25
+    Top = 200
+    Width = 75
+    Caption = 'ElimChar'
+    OnClick = ElimCharClick
+    TabOrder = 10
+  end
+  object InterChar: TButton
+    Left = 480
+    Height = 25
+    Top = 232
+    Width = 75
+    Caption = 'InterChar'
+    OnClick = InterCharClick
+    TabOrder = 11
+  end
+  object CantChar: TButton
+    Left = 480
+    Height = 25
+    Top = 264
+    Width = 75
+    Caption = 'CantChar'
+    OnClick = CantCharClick
+    TabOrder = 12
+  end
+  object Label2: TLabel
+    Left = 432
+    Height = 25
+    Top = 80
+    Width = 41
+    Caption = 'Char'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -19
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object BuscChar: TButton
+    Left = 352
+    Height = 25
+    Top = 264
+    Width = 75
+    Caption = 'BuscChar'
+    OnClick = BuscCharClick
+    TabOrder = 13
+  end
+  object pos2: TEdit
+    Left = 40
+    Height = 23
+    Top = 104
+    Width = 80
+    TabOrder = 14
+    TextHint = 'pos2.......'
+  end
+  object ele2: TEdit
+    Left = 176
+    Height = 23
+    Top = 104
+    Width = 80
+    TabOrder = 15
+    TextHint = 'ele2.....'
+  end
+  object CantPal: TButton
+    Left = 176
+    Height = 25
+    Top = 264
+    Width = 75
+    Caption = 'CantPal'
+    OnClick = CantPalClick
+    TabOrder = 16
+  end
+  object InsPal: TButton
+    Left = 40
+    Height = 25
+    Top = 136
+    Width = 75
+    Caption = 'InsPal'
+    OnClick = InsPalClick
+    TabOrder = 17
+  end
+  object ElimPal: TButton
+    Left = 176
+    Height = 25
+    Top = 136
+    Width = 75
+    Caption = 'ElimPal'
+    OnClick = ElimPalClick
+    TabOrder = 18
+  end
+  object CambPal: TButton
+    Left = 176
+    Height = 25
+    Top = 200
+    Width = 75
+    Caption = 'CambPal'
+    OnClick = CambPalClick
+    TabOrder = 19
+  end
+  object BuscPal: TButton
+    Left = 176
+    Height = 25
+    Top = 232
+    Width = 75
+    Caption = 'BuscPal'
+    OnClick = BuscPalClick
+    TabOrder = 20
+  end
+  object AddPal: TButton
+    Left = 40
+    Height = 25
+    Top = 168
+    Width = 75
+    Caption = 'AddPal'
+    OnClick = AddPalClick
+    TabOrder = 21
+  end
+  object InvPal: TButton
+    Left = 176
+    Height = 25
+    Top = 168
+    Width = 75
+    Caption = 'InvPal'
+    OnClick = InvPalClick
+    TabOrder = 22
+  end
+  object RotarPal: TButton
+    Left = 40
+    Height = 25
+    Top = 200
+    Width = 75
+    Caption = 'RotarPal'
+    OnClick = RotarPalClick
+    TabOrder = 23
+  end
+  object Mayusculas: TButton
+    Left = 40
+    Height = 25
+    Top = 232
+    Width = 75
+    Caption = 'Mayusculas'
+    OnClick = MayusculasClick
+    TabOrder = 24
+  end
+  object Minusculas: TButton
+    Left = 40
+    Height = 25
+    Top = 264
+    Width = 75
+    Caption = 'Minusculas'
+    OnClick = MinusculasClick
+    TabOrder = 25
+  end
+  object Titulo: TButton
+    Left = 264
+    Height = 25
+    Top = 168
+    Width = 75
+    Caption = 'Titulo'
+    OnClick = TituloClick
+    TabOrder = 26
+  end
+  object Label3: TLabel
+    Left = 120
+    Height = 25
+    Top = 80
+    Width = 55
+    Caption = 'String'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -19
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object Salir: TButton
+    Left = 264
+    Height = 25
+    Top = 296
+    Width = 75
+    Caption = 'Salir'
+    OnClick = SalirClick
+    TabOrder = 27
+  end
+end

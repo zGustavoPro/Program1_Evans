@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="registro.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="40"/>
+        <CursorPos X="11" Y="54"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="5">
+      <Position>
+        <Filename Value="registro.lpr"/>
+        <Caret Line="53" Column="10" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="registro.lpr"/>
+        <Caret Line="27" Column="7" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="registro.lpr"/>
+        <Caret Line="20" Column="32" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="registro.lpr"/>
+        <Caret Line="24" Column="3" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="registro.lpr"/>
+        <Caret Line="21" Column="18" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="registro.lpr"/>
+        <Caret Line="50" Column="11" TopLine="39"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

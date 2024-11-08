@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="e7.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="12"/>
+        <CursorPos X="26" Y="9"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\e6\e6.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="35"/>
+        <CursorPos X="16" Y="49"/>
+        <FoldState Value=" TLA0M0"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\e5\e5.lpr"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="39"/>
+        <CursorPos X="15" Y="41"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\TEMA6\utexto.pas"/>
+        <UnitName Value="Utexto"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="112"/>
+        <CursorPos X="26" Y="57"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\TEMA6\tarchivo.pas"/>
+        <UnitName Value="TArchivo"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="10"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\Practico6\ttexto.pas"/>
+        <UnitName Value="Ttexto"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="52"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="utexto.pas"/>
+        <UnitName Value="Utexto"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="55"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ttexto.pas"/>
+        <UnitName Value="Ttexto"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="193"/>
+        <CursorPos X="28" Y="201"/>
+        <FoldState Value=" TLrY0hs"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\e1\registro.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="9"/>
+        <CursorPos X="20" Y="8"/>
+        <UsageCount Value="11"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="3">
+      <Position>
+        <Filename Value="e7.lpr"/>
+        <Caret Line="45" Column="11" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="e7.lpr"/>
+        <Caret Line="10" Column="35" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="e7.lpr"/>
+        <Caret Line="50" Column="22" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="e7.lpr"/>
+        <Caret Line="49" Column="25" TopLine="40"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

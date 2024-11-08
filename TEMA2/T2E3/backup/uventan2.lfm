@@ -1,0 +1,213 @@
+object Form1: TForm1
+  Left = 746
+  Height = 343
+  Top = 182
+  Width = 559
+  Caption = 'Vector'
+  ClientHeight = 343
+  ClientWidth = 559
+  Color = clAqua
+  OnCreate = FormCreate
+  LCLVersion = '2.2.6.0'
+  object SG: TStringGrid
+    Left = 128
+    Height = 36
+    Top = 32
+    Width = 304
+    DefaultColWidth = 32
+    FixedCols = 0
+    FixedRows = 0
+    RowCount = 1
+    TabOrder = 0
+  end
+  object Button1: TButton
+    Left = 200
+    Height = 25
+    Top = 112
+    Width = 107
+    Caption = 'crear'
+    OnClick = Button1Click
+    TabOrder = 1
+  end
+  object pos: TEdit
+    Left = 241
+    Height = 23
+    Top = 80
+    Width = 80
+    TabOrder = 2
+    TextHint = 'posicion..'
+  end
+  object ele: TEdit
+    Left = 376
+    Height = 23
+    Top = 80
+    Width = 80
+    TabOrder = 3
+    TextHint = 'elemento'
+  end
+  object Button2: TButton
+    Left = 200
+    Height = 25
+    Top = 144
+    Width = 107
+    Caption = 'setdim'
+    OnClick = Button2Click
+    TabOrder = 4
+  end
+  object Button3: TButton
+    Left = 200
+    Height = 26
+    Top = 175
+    Width = 107
+    Caption = 'getdim'
+    OnClick = Button3Click
+    TabOrder = 5
+  end
+  object Button4: TButton
+    Left = 200
+    Height = 25
+    Top = 208
+    Width = 104
+    Caption = 'cargarvalor'
+    OnClick = Button4Click
+    TabOrder = 6
+  end
+  object Button5: TButton
+    Left = 203
+    Height = 25
+    Top = 240
+    Width = 104
+    Caption = 'GETELEM'
+    OnClick = Button5Click
+    TabOrder = 7
+  end
+  object Button6: TButton
+    Left = 365
+    Height = 26
+    Top = 112
+    Width = 104
+    Caption = 'ADDELEM'
+    OnClick = Button6Click
+    TabOrder = 8
+  end
+  object Button7: TButton
+    Left = 365
+    Height = 25
+    Top = 144
+    Width = 99
+    Caption = 'INSELEM'
+    OnClick = Button7Click
+    TabOrder = 9
+  end
+  object Button8: TButton
+    Left = 365
+    Height = 26
+    Top = 175
+    Width = 96
+    Caption = 'REMELEN'
+    OnClick = Button8Click
+    TabOrder = 10
+  end
+  object Button9: TButton
+    Left = 365
+    Height = 25
+    Top = 272
+    Width = 96
+    Caption = 'SALIR'
+    OnClick = Button9Click
+    TabOrder = 11
+  end
+  object Label1: TLabel
+    Left = 240
+    Height = 22
+    Top = 8
+    Width = 81
+    Caption = 'VECTOR'
+    Font.Height = -19
+    Font.Name = 'Sans'
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object Button10: TButton
+    Left = 365
+    Height = 25
+    Top = 208
+    Width = 99
+    Caption = 'BusqSec'
+    OnClick = Button10Click
+    TabOrder = 12
+  end
+  object Button11: TButton
+    Left = 365
+    Height = 25
+    Top = 240
+    Width = 104
+    Caption = 'Ordenar'
+    OnClick = Button11Click
+    TabOrder = 13
+  end
+  object Button12: TButton
+    Left = 72
+    Height = 25
+    Top = 112
+    Width = 99
+    Caption = 'obtener'
+    OnClick = Button12Click
+    TabOrder = 14
+  end
+  object Button13: TButton
+    Left = 72
+    Height = 25
+    Top = 144
+    Width = 99
+    Caption = 'cantidad'
+    OnClick = Button13Click
+    TabOrder = 15
+  end
+  object Button14: TButton
+    Left = 72
+    Height = 25
+    Top = 176
+    Width = 99
+    Caption = 'invertir'
+    OnClick = Button14Click
+    TabOrder = 16
+  end
+  object Button15: TButton
+    Left = 72
+    Height = 25
+    Top = 208
+    Width = 99
+    Caption = 'rotar'
+    OnClick = Button15Click
+    TabOrder = 17
+  end
+  object Button16: TButton
+    Left = 72
+    Height = 25
+    Top = 240
+    Width = 96
+    Caption = 'BusqBinaria'
+    OnClick = Button16Click
+    TabOrder = 18
+  end
+  object Button17: TButton
+    Left = 69
+    Height = 25
+    Top = 272
+    Width = 99
+    Caption = 'frecuencia'
+    OnClick = Button17Click
+    TabOrder = 19
+  end
+  object Button18: TButton
+    Left = 208
+    Height = 25
+    Top = 272
+    Width = 96
+    Caption = 'eliminarRep'
+    OnClick = Button18Click
+    TabOrder = 20
+  end
+end

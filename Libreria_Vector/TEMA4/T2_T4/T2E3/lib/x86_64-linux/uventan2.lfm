@@ -1,0 +1,130 @@
+object Form1: TForm1
+  Left = 982
+  Height = 343
+  Top = 165
+  Width = 377
+  Caption = 'Vector'
+  ClientHeight = 343
+  ClientWidth = 377
+  LCLVersion = '2.2.6.0'
+  object SG: TStringGrid
+    Left = 29
+    Height = 36
+    Top = 40
+    Width = 304
+    DefaultColWidth = 32
+    FixedCols = 0
+    FixedRows = 0
+    RowCount = 1
+    TabOrder = 0
+  end
+  object Button1: TButton
+    Left = 24
+    Height = 33
+    Top = 144
+    Width = 136
+    Caption = 'crear'
+    OnClick = Button1Click
+    TabOrder = 1
+  end
+  object pos: TEdit
+    Left = 64
+    Height = 36
+    Top = 88
+    Width = 80
+    TabOrder = 2
+    TextHint = 'posicion..'
+  end
+  object ele: TEdit
+    Left = 200
+    Height = 36
+    Top = 88
+    Width = 80
+    TabOrder = 3
+    TextHint = 'elemento'
+  end
+  object Button2: TButton
+    Left = 24
+    Height = 33
+    Top = 176
+    Width = 131
+    Caption = 'SETDIM'
+    OnClick = Button2Click
+    TabOrder = 4
+  end
+  object Button3: TButton
+    Left = 27
+    Height = 34
+    Top = 208
+    Width = 128
+    Caption = 'GETDIM'
+    OnClick = Button3Click
+    TabOrder = 5
+  end
+  object Button4: TButton
+    Left = 29
+    Height = 32
+    Top = 240
+    Width = 123
+    Caption = 'SETELEM'
+    OnClick = Button4Click
+    TabOrder = 6
+  end
+  object Button5: TButton
+    Left = 32
+    Height = 33
+    Top = 272
+    Width = 112
+    Caption = 'GETELEM'
+    OnClick = Button5Click
+    TabOrder = 7
+  end
+  object Button6: TButton
+    Left = 192
+    Height = 26
+    Top = 144
+    Width = 104
+    Caption = 'ADDELEM'
+    OnClick = Button6Click
+    TabOrder = 8
+  end
+  object Button7: TButton
+    Left = 192
+    Height = 32
+    Top = 176
+    Width = 99
+    Caption = 'INSELEM'
+    OnClick = Button7Click
+    TabOrder = 9
+  end
+  object Button8: TButton
+    Left = 192
+    Height = 32
+    Top = 208
+    Width = 96
+    Caption = 'REMELEN'
+    OnClick = Button8Click
+    TabOrder = 10
+  end
+  object Button9: TButton
+    Left = 208
+    Height = 32
+    Top = 288
+    Width = 96
+    Caption = 'SALIR'
+    OnClick = Button9Click
+    TabOrder = 11
+  end
+  object Label1: TLabel
+    Left = 152
+    Height = 27
+    Top = 8
+    Width = 74
+    Caption = 'VECTOR'
+    Font.Height = -19
+    Font.Name = 'Sans'
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+end

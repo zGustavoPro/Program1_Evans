@@ -1,0 +1,82 @@
+object Form1: TForm1
+  Left = 490
+  Height = 240
+  Top = 183
+  Width = 320
+  Caption = 'Form1'
+  ClientHeight = 240
+  ClientWidth = 320
+  LCLVersion = '2.2.6.0'
+  object crear: TButton
+    Left = 16
+    Height = 25
+    Top = 32
+    Width = 75
+    Caption = 'crear'
+    OnClick = crearClick
+    TabOrder = 0
+  end
+  object cargar: TButton
+    Left = 88
+    Height = 25
+    Top = 88
+    Width = 75
+    Caption = 'cargar'
+    OnClick = cargarClick
+    TabOrder = 1
+  end
+  object mostrar: TButton
+    Left = 121
+    Height = 25
+    Top = 126
+    Width = 75
+    Caption = 'mostrar'
+    OnClick = mostrarClick
+    TabOrder = 2
+  end
+  object aprobados: TButton
+    Left = 85
+    Height = 25
+    Top = 164
+    Width = 75
+    Caption = 'aprobados'
+    OnClick = aprobadosClick
+    TabOrder = 3
+  end
+  object reprobados: TButton
+    Left = 68
+    Height = 25
+    Top = 207
+    Width = 75
+    Caption = 'reprobados'
+    OnClick = reprobadosClick
+    TabOrder = 4
+  end
+  object promedio: TButton
+    Left = 198
+    Height = 25
+    Top = 215
+    Width = 75
+    Caption = 'promedio'
+    OnClick = promedioClick
+    TabOrder = 5
+  end
+  object mejornota: TButton
+    Left = 238
+    Height = 25
+    Top = 187
+    Width = 75
+    Caption = 'mejor nota'
+    OnClick = mejornotaClick
+    TabOrder = 6
+  end
+  object salir: TButton
+    Left = 248
+    Height = 25
+    Top = 158
+    Width = 75
+    Caption = 'salir'
+    OnClick = salirClick
+    TabOrder = 7
+  end
+end

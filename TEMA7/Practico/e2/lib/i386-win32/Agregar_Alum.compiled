@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\i386-win32\fpc.exe" Date="1449426723"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw2 -gl -l -vewnhibq -FiD:\gustavo\TEMA7\Practico\e2\lib\i386-win32 -FuD:\gustavo\TEMA7\Practico\e2\ -FUD:\gustavo\TEMA7\Practico\e2\lib\i386-win32\ -FED:\gustavo\TEMA7\Practico\e2\ -oD:\gustavo\TEMA7\Practico\e2\Agregar_Alum.exe Agregar_Alum.lpr"/>
+</CONFIG>

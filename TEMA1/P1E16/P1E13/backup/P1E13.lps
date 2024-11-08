@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="P1E13.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="13"/>
+        <CursorPos X="5" Y="23"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tpracticou13.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="TpracticoU13"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="23"/>
+        <CursorPos X="8" Y="22"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="11">
+      <Position>
+        <Filename Value="tpracticou13.pas"/>
+        <Caret Line="15" Column="3" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="P1E13.lpr"/>
+        <Caret Line="21" Column="39" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou13.pas"/>
+        <Caret Line="24" Column="5" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="P1E13.lpr"/>
+        <Caret Line="13" Column="16" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou13.pas"/>
+        <Caret Line="22" Column="54" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou13.pas"/>
+        <Caret Line="24" Column="14" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="P1E13.lpr"/>
+        <Caret Line="22" Column="13" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="P1E13.lpr"/>
+        <Caret Line="21" Column="12" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="P1E13.lpr"/>
+        <Caret Line="17" Column="16" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="P1E13.lpr"/>
+        <Caret Line="21" Column="7" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou13.pas"/>
+        <Caret Line="22" Column="2" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou13.pas"/>
+        <Caret Line="15" Column="5" TopLine="12"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

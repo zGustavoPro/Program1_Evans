@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\i386-win32\fpc.exe" Date="1449426723"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw2 -gl -l -vewnhibq &quot;-FiF:\Trabajos en casa\Libreria_Archivos\TEMA6\Empleados.txt\lib\i386-win32&quot; &quot;-FuF:\Trabajos en casa\Libreria_Archivos\TEMA6\Empleados.txt\&quot; &quot;-FUF:\Trabajos en casa\Libreria_Archivos\TEMA6\Empleados.txt\lib\i386-win32\&quot; &quot;-FEF:\Trabajos en casa\Libreria_Archivos\TEMA6\Empleados.txt\&quot; &quot;-oF:\Trabajos en casa\Libreria_Archivos\TEMA6\Empleados.txt\e1.exe&quot; e1.lpr"/>
+</CONFIG>

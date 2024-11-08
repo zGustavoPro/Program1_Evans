@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="P1E23.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="6"/>
+        <CursorPos X="26" Y="16"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tpracticou23.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="TPracticoU23"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="16"/>
+        <CursorPos X="59" Y="21"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="9">
+      <Position>
+        <Filename Value="tpracticou23.pas"/>
+        <Caret Line="14" Column="37"/>
+      </Position>
+      <Position>
+        <Filename Value="P1E23.lpr"/>
+        <Caret Line="17" Column="10" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou23.pas"/>
+        <Caret Line="25" Column="12" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou23.pas"/>
+        <Caret Line="27" Column="18" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou23.pas"/>
+        <Caret Line="21" Column="52" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou23.pas"/>
+        <Caret Line="14" Column="61" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou23.pas"/>
+        <Caret Line="21" Column="71" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="P1E23.lpr"/>
+        <Caret Line="18" Column="13" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="P1E23.lpr"/>
+        <Caret Line="17" Column="3" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou23.pas"/>
+        <Caret Line="21" Column="59" TopLine="16"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

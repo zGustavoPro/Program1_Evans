@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="43"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tarchivo.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="TArchivo"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="32" Y="156"/>
+        <UsageCount Value="43"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="utexto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Utexto"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="24"/>
+        <CursorPos X="28" Y="29"/>
+        <UsageCount Value="43"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tcadena.pas"/>
+        <UnitName Value="TCadena"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="50"/>
+        <CursorPos X="12" Y="57"/>
+        <UsageCount Value="22"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tconjunto.pas"/>
+        <UnitName Value="Tconjunto"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="66"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Trabajos en clases\T3E4\ucadena.pas"/>
+        <UnitName Value="Ucadena"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="173"/>
+        <CursorPos X="22" Y="140"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Practico6\ktexto.pas"/>
+        <UnitName Value="Ktexto"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="552"/>
+        <CursorPos X="17" Y="230"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Pcadena.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="11" Y="51"/>
+        <UsageCount Value="12"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ttexto.pas"/>
+        <UnitName Value="Ttexto"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="11"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="13">
+      <Position>
+        <Filename Value="tarchivo.pas"/>
+        <Caret Line="128" Column="19" TopLine="128"/>
+      </Position>
+      <Position>
+        <Filename Value="tarchivo.pas"/>
+        <Caret Line="129" Column="19" TopLine="129"/>
+      </Position>
+      <Position>
+        <Filename Value="tarchivo.pas"/>
+        <Caret Line="128" Column="19" TopLine="128"/>
+      </Position>
+      <Position>
+        <Filename Value="tarchivo.pas"/>
+        <Caret Line="8" Column="105" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="tarchivo.pas"/>
+        <Caret Line="152" Column="29" TopLine="141"/>
+      </Position>
+      <Position>
+        <Filename Value="tarchivo.pas"/>
+        <Caret Line="8" Column="112"/>
+      </Position>
+      <Position>
+        <Filename Value="tarchivo.pas"/>
+        <Caret Line="8" Column="105"/>
+      </Position>
+      <Position>
+        <Filename Value="tarchivo.pas"/>
+        <Caret Line="8" Column="100"/>
+      </Position>
+      <Position>
+        <Filename Value="tarchivo.pas"/>
+        <Caret Line="150" Column="10" TopLine="137"/>
+      </Position>
+      <Position>
+        <Filename Value="tarchivo.pas"/>
+        <Caret Line="149" Column="18" TopLine="137"/>
+      </Position>
+      <Position>
+        <Filename Value="tarchivo.pas"/>
+        <Caret Line="150" Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="tarchivo.pas"/>
+        <Caret Line="151" Column="72" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="tarchivo.pas"/>
+        <Caret Line="158" Column="29" TopLine="149"/>
+      </Position>
+      <Position>
+        <Filename Value="tarchivo.pas"/>
+        <Caret Line="156" Column="32"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

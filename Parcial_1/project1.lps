@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uparcial.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Uparcial"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="86"/>
+        <CursorPos X="14" Y="84"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tparcial.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tparcial"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="25"/>
+        <CursorPos X="10" Y="556"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Libreria 1er parcial\tinteger.pas"/>
+        <UnitName Value="TInteger"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="18"/>
+        <CursorPos X="18" Y="514"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Libreria 1er parcial\enteros.pas"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="103"/>
+        <CursorPos X="61" Y="106"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\TEMA2\T2P2\uvector.pas"/>
+        <UnitName Value="Uvector"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="33"/>
+        <CursorPos X="25" Y="35"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Libreria_Vector\Par_1\enteros.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="35"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="25">
+      <Position>
+        <Filename Value="uparcial.pas"/>
+        <Caret Line="18" Column="24"/>
+      </Position>
+      <Position>
+        <Filename Value="uparcial.pas"/>
+        <Caret Line="32" Column="3" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="uparcial.pas"/>
+        <Caret Line="34" Column="3" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="uparcial.pas"/>
+        <Caret Line="35" Column="3" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="uparcial.pas"/>
+        <Caret Line="36" Column="3" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="uparcial.pas"/>
+        <Caret Line="37" Column="3" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="uparcial.pas"/>
+        <Caret Line="38" Column="3" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="uparcial.pas"/>
+        <Caret Line="39" Column="3" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="uparcial.pas"/>
+        <Caret Line="51" Column="7" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="uparcial.pas"/>
+        <Caret Line="42" Column="3" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="uparcial.pas"/>
+        <Caret Line="53" Column="3" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="uparcial.pas"/>
+        <Caret Line="49" Column="3" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="uparcial.pas"/>
+        <Caret Line="65" Column="3" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="uparcial.pas"/>
+        <Caret Line="61" Column="3" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="uparcial.pas"/>
+        <Caret Line="31" Column="5" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="uparcial.pas"/>
+        <Caret Line="33" Column="5" TopLine="33"/>
+      </Position>
+      <Position>
+        <Filename Value="uparcial.pas"/>
+        <Caret Line="56" Column="13" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="uparcial.pas"/>
+        <Caret Line="58" Column="13" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="uparcial.pas"/>
+        <Caret Line="59" Column="15" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="uparcial.pas"/>
+        <Caret Line="61" Column="15" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="uparcial.pas"/>
+        <Caret Line="60" Column="15" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="uparcial.pas"/>
+        <Caret Line="59" Column="15" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="tparcial.pas"/>
+        <Caret Line="39" Column="29" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="tparcial.pas"/>
+        <Caret Line="544" Column="14" TopLine="532"/>
+      </Position>
+      <Position>
+        <Filename Value="uparcial.pas"/>
+        <Caret Line="77" Column="13" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="tparcial.pas"/>
+        <Caret Line="40" Column="55" TopLine="30"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

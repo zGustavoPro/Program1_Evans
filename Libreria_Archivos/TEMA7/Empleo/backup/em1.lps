@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="em1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="34"/>
+        <CursorPos X="25" Y="49"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Practico\tpersona.pas"/>
+        <UnitName Value="TPersona"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="47"/>
+        <CursorPos X="29" Y="66"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Practico\e1\registro.lpr"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="22" Y="36"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="2">
+      <Position>
+        <Filename Value="em1.lpr"/>
+        <Caret Line="50" Column="18" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="em1.lpr"/>
+        <Caret Line="23" Column="16" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="em1.lpr"/>
+        <Caret Line="18" Column="19" TopLine="33"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

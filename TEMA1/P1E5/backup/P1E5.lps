@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="P1E5.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="5"/>
+        <CursorPos X="10" Y="16"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tpracticou5.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="TpracticoU5"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="29"/>
+        <CursorPos X="26" Y="35"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="7">
+      <Position>
+        <Filename Value="tpracticou5.pas"/>
+        <Caret Line="16" Column="37" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="P1E5.lpr"/>
+        <Caret Line="15" Column="28"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou5.pas"/>
+        <Caret Line="37" Column="6" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou5.pas"/>
+        <Caret Line="34" Column="26" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou5.pas"/>
+        <Caret Line="33" Column="9" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou5.pas"/>
+        <Caret Line="29" Column="11" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou5.pas"/>
+        <Caret Line="34" Column="8" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="tpracticou5.pas"/>
+        <Caret Line="35" Column="12" TopLine="29"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

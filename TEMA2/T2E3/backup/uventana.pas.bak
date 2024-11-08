@@ -1,0 +1,147 @@
+unit Uventana;
+
+{$mode ObjFPC}{$H+}
+
+interface
+
+uses
+  Classes, SysUtils,dialogs;
+const
+  max_ele=120;
+  type
+
+    { vector }
+
+    vector=class
+      private
+        elem:array [1..max_ele] of integer;           //[ ]
+        dim:integer;
+        public
+          constructor crear();
+          procedure setelem(pos,ele:integer);
+          function getelem(pos:integer):integer;
+          procedure setdim(dime:integer);
+          function getdim():integer;
+          procedure addelem(ele:integer);
+          procedure inselem(pos,ele:integer);
+          procedure remelem(pos:integer);
+          function busqsec(ele:integer):integer;
+          procedure ordinInter();
+    end;
+
+implementation
+
+{ vector }
+
+constructor vector.crear;
+var pos:integer;
+begin
+  dim:=0;
+  for pos:=1 to max_ele do
+  elem [ pos]:= 0;
+end;
+
+procedure vector.setelem(pos, ele: integer);
+begin
+    if (pos>=1) and (pos<=dim) then
+    elem[ pos]:=ele
+    else
+    ShowMessage('posicion fuera de rango' );
+
+end;
+
+function vector.getelem(pos: integer): integer;
+begin
+    if (pos>=1) and (pos<=dim)then
+    result:= elem[ pos]
+    else
+    result:=-999;
+end;
+
+procedure vector.setdim(dime:integer);
+begin
+    if (dime>=0) and (dime<=max_ele)then
+    dim:=dime
+    else
+    Showmessage('dimension fuera de rango');
+end;
+
+function vector.getdim: integer;  //devolver num
+begin
+ result:=dim;
+end;
+
+procedure vector.addelem(ele: integer);      //añadir num
+begin
+    if (dim<max_ele)then
+    begin
+      dim:=dim+1;
+      elem[ dim]:=ele;
+    end else
+    Showmessage('almacenamiento lleno');
+end;
+
+procedure vector.inselem(pos, ele: integer);      //insertar num
+var i:integer;
+begin
+ if(dim<max_ele) then
+ begin
+   if (pos>=1)and (pos<=dim)then
+   begin
+     for i:=1 to pos do
+     begin
+       elem[ i+1]:=elem[ i];
+       elem[ pos]:=ele;
+       dim:=dim+1;
+     end;
+   end else
+   ShowMessage('posicion fuera de rango');
+ end else
+ Showmessage('almacenamiento lleno');
+end;
+
+procedure vector.remelem(pos: integer); //eliminar
+var i:integer;
+begin
+ if (dim<>0) then
+ begin
+ if (pos>=1) and (pos<=dim) then
+ begin
+   for i:=1 to (dim-1) do
+   begin
+     elem[ i] :=elem[ i+1];
+     dim:=dim-1;
+   end;
+ end else
+ Showmessage('posicion fuera de rango');
+    end else
+    Showmessage ('almacenamiento vacio');
+end;
+
+function vector.busqsec(ele: integer): integer;
+var
+  i:integer;
+  sw:boolean;
+begin
+ i:=1;
+ sw:=false;
+ while (i<=dim) and (NOT sw) do
+begin
+  if (ele=elem[i]) then
+   sw:= true
+  else
+  i:=i+1;
+  end;
+  if (sw=true)then
+  result:=1
+  else
+  result:=-1;
+end;
+
+procedure vector.ordinInter;
+begin
+
+end;
+
+end.
+
